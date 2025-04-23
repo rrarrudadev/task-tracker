@@ -1,5 +1,6 @@
 # Task Tracker CLI
-Task tracker is a project used to track and manage your tasks: what you need to do, what you have done, and what you are currently working on, through a simple command line interface.
+Task tracker is a project used to track and manage your tasks: what you need to do, what you have done, and what you are currently working on, through a simple command line interface.<br>
+Project URL: https://roadmap.sh/projects/task-tracker
 ## Commands
 1. Add <br>
    - Command to add a task to the task list <br>
